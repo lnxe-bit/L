@@ -10,7 +10,7 @@ const Home = () => {
                     Hello, I'am Front-end Developer.
                 </h2>
                 <p className="text-gray-500 py-4 max-w-md">
-                    I maybe slow to respond but I love to work on web application using my techstack.
+                    I may be slow to respond but I love to work on web application using my techstack.
                 </p>
                 <div>
                     <button className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
