@@ -12,7 +12,7 @@ const About = () => {
                 </p>
             <br/>
                 <p className="text-xl">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem explicabo adipisci commodi fugiat praesentium eaque modi omnis, cupiditate iusto, repellat molestiae incidunt delectus non quasi, pariatur eligendi ratione aspernatur quos? Libero a amet, sunt voluptate molestiae doloribus dolor modi fugit consequatur ipsum assumenda eius quibusdam sapiente, provident rerum! Ducimus, quisquam.
+                    Lorem, ipsum dolor sit amet with lorem ipsum dolor la punyeta chinguna elit. Autem explicabo adipisci commodi fugiat praesentium eaque modi omnis, cupiditate iusto, repellat molestiae incidunt delectus non quasi, pariatur eligendi ratione aspernatur quos? Libero a amet, sunt voluptate molestiae doloribus dolor modi fugit consequatur ipsum assumenda eius quibusdam sapiente, provident rerum! Ducimus, quisquam.
                  </p>
         </div>
     </div>
