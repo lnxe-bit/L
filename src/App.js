@@ -4,11 +4,10 @@ import SocialLinks from "./components/SocialLinks";
 import About from "./components/About";
 import Portfolio from "./components/Portfolio";
 
-
 function App() {
   return (
     <div>
-      <NavBar /> 
+      <NavBar />
       <Home />
       <About />
       <Portfolio />
